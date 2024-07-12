@@ -1,0 +1,125 @@
+{
+  "questions": [
+    {
+      "topic": "7.1 Systems and Processes",
+      "question": "Which of the following is the best definition of a thermodynamic system?",
+      "options": {
+        "a": "The portion of the universe that is not under study.",
+        "b": "The chemicals and reactions being observed in an experiment.",
+        "c": "The specific portion of the universe that is being studied.",
+        "d": "The exchange of energy between the system and the surroundings."
+      },
+      "answer": "c"
+    },
+    {
+      "topic": "7.1 Systems and Processes",
+      "question": "An exothermic process is characterized by:",
+      "options": {
+        "a": "The system absorbing heat from the surroundings.",
+        "b": "The system releasing heat to the surroundings.",
+        "c": "No heat exchange between the system and surroundings.",
+        "d": "An increase in the internal energy of the system."
+      },
+      "answer": "b"
+    },
+    {
+      "topic": "7.2 States and State Functions",
+      "question": "Which of the following is NOT a state function?",
+      "options": {
+        "a": "Temperature",
+        "b": "Enthalpy",
+        "c": "Work",
+        "d": "Internal Energy"
+      },
+      "answer": "c"
+    },
+    {
+      "topic": "7.2 States and State Functions",
+      "question": "A phase diagram illustrates:",
+      "options": {
+        "a": "The changes in enthalpy during a chemical reaction.",
+        "b": "The equilibrium between different phases of a substance.",
+        "c": "The rate of a reaction at different temperatures.",
+        "d": "The energy required to break chemical bonds."
+      },
+      "answer": "b"
+    },
+    {
+      "topic": "7.3 Heat",
+      "question": "Constant-volume calorimetry is typically carried out in a:",
+      "options": {
+        "a": "Beaker",
+        "b": "Bomb calorimeter",
+        "c": "Coffee-cup calorimeter",
+        "d": "Test tube"
+      },
+      "answer": "b"
+    },
+    {
+      "topic": "7.3 Heat",
+      "question": "What does a heating curve depict?",
+      "options": {
+        "a": "The change in temperature of a substance over time as heat is added.",
+        "b": "The change in enthalpy of a reaction at different temperatures.",
+        "c": "The change in free energy of a reaction at different pressures.",
+        "d": "The change in entropy of a system as it undergoes a phase change."
+      },
+      "answer": "a"
+    },
+    {
+      "topic": "7.4 Enthalpy",
+      "question": "The standard heat of formation (ΔH°f) is defined as the enthalpy change when:",
+      "options": {
+        "a": "One mole of a compound is formed from its elements in their standard states.",
+        "b": "One mole of a compound reacts completely with oxygen.",
+        "c": "One gram of a compound undergoes a phase change.",
+        "d": "One mole of a compound dissolves in water."
+      },
+      "answer": "a"
+    },
+    {
+      "topic": "7.4 Enthalpy",
+      "question": "Hess's Law states that:",
+      "options": {
+        "a": "The enthalpy change of a reaction depends only on the initial and final states of the reactants and products.",
+        "b": "The enthalpy change of a reaction is equal to the sum of the enthalpy changes of the individual steps in the reaction.",
+        "c": "The enthalpy change of a reaction is always negative for exothermic reactions.",
+        "d": "The enthalpy change of a reaction is always positive for endothermic reactions."
+      },
+      "answer": "b"
+    },
+    {
+      "topic": "7.5 Entropy",
+      "question": "Which of the following processes generally leads to an increase in entropy?",
+      "options": {
+        "a": "A gas condensing into a liquid",
+        "b": "A solid dissolving in a solvent",
+        "c": "Water freezing into ice",
+        "d": "A spontaneous reaction becoming non-spontaneous"
+      },
+      "answer": "b"
+    },
+    {
+      "topic": "7.6 Gibbs Free Energy",
+      "question": "A reaction is considered spontaneous under standard conditions when:",
+      "options": {
+        "a": "ΔG° > 0",
+        "b": "ΔG° = 0",
+        "c": "ΔG° < 0",
+        "d": "ΔH° > 0"
+      },
+      "answer": "c"
+    },
+    {
+      "topic": "7.6 Gibbs Free Energy",
+      "question": "The relationship between Gibbs Free Energy (ΔG), enthalpy (ΔH), and entropy (ΔS) is given by the equation:",
+      "options": {
+        "a": "ΔG = ΔH + TΔS",
+        "b": "ΔG = ΔH - TΔS",
+        "c": "ΔG = TΔS - ΔH",
+        "d": "ΔG = -TΔS - ΔH"
+      },
+      "answer": "b"
+    }
+  ]
+}
