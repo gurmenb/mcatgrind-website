@@ -1,7 +1,7 @@
 {
   "questions": [
     {
-      "topic": "7.1 Systems and Processes",
+      "topic": "Thermochemistry",
       "question": "Which of the following is the best definition of a thermodynamic system?",
       "options": {
         "a": "The portion of the universe that is not under study.",
@@ -12,7 +12,7 @@
       "answer": "c"
     },
     {
-      "topic": "7.1 Systems and Processes",
+      "topic": "Thermochemistry",
       "question": "An exothermic process is characterized by:",
       "options": {
         "a": "The system absorbing heat from the surroundings.",
@@ -23,7 +23,7 @@
       "answer": "b"
     },
     {
-      "topic": "7.2 States and State Functions",
+      "topic": "Thermochemistry",
       "question": "Which of the following is NOT a state function?",
       "options": {
         "a": "Temperature",
@@ -34,7 +34,7 @@
       "answer": "c"
     },
     {
-      "topic": "7.2 States and State Functions",
+      "topic": "Thermochemistry",
       "question": "A phase diagram illustrates:",
       "options": {
         "a": "The changes in enthalpy during a chemical reaction.",
@@ -45,7 +45,7 @@
       "answer": "b"
     },
     {
-      "topic": "7.3 Heat",
+      "topic": "Thermochemistry",
       "question": "Constant-volume calorimetry is typically carried out in a:",
       "options": {
         "a": "Beaker",
@@ -56,7 +56,7 @@
       "answer": "b"
     },
     {
-      "topic": "7.3 Heat",
+      "topic": "Thermochemistry",
       "question": "What does a heating curve depict?",
       "options": {
         "a": "The change in temperature of a substance over time as heat is added.",
@@ -67,7 +67,7 @@
       "answer": "a"
     },
     {
-      "topic": "7.4 Enthalpy",
+      "topic": "Thermochemistry",
       "question": "The standard heat of formation (ΔH°f) is defined as the enthalpy change when:",
       "options": {
         "a": "One mole of a compound is formed from its elements in their standard states.",
@@ -78,7 +78,7 @@
       "answer": "a"
     },
     {
-      "topic": "7.4 Enthalpy",
+      "topic": "Thermochemistry",
       "question": "Hess's Law states that:",
       "options": {
         "a": "The enthalpy change of a reaction depends only on the initial and final states of the reactants and products.",
@@ -89,7 +89,7 @@
       "answer": "b"
     },
     {
-      "topic": "7.5 Entropy",
+      "topic": "Thermochemistry",
       "question": "Which of the following processes generally leads to an increase in entropy?",
       "options": {
         "a": "A gas condensing into a liquid",
@@ -100,7 +100,7 @@
       "answer": "b"
     },
     {
-      "topic": "7.6 Gibbs Free Energy",
+      "topic": "Thermochemistry",
       "question": "A reaction is considered spontaneous under standard conditions when:",
       "options": {
         "a": "ΔG° > 0",
@@ -111,7 +111,7 @@
       "answer": "c"
     },
     {
-      "topic": "7.6 Gibbs Free Energy",
+      "topic": "Thermochemistry",
       "question": "The relationship between Gibbs Free Energy (ΔG), enthalpy (ΔH), and entropy (ΔS) is given by the equation:",
       "options": {
         "a": "ΔG = ΔH + TΔS",
@@ -120,6 +120,160 @@
         "d": "ΔG = -TΔS - ΔH"
       },
       "answer": "b"
+    },
+    {
+      "topic": "Thermochemistry",
+      "question": "What is the unit of entropy?",
+      "options": {
+        "a": "Joules (J)",
+        "b": "Joules per mole (J/mol)",
+        "c": "Joules per mole per Kelvin (J/mol·K)",
+        "d": "Joules per Kelvin (J/K)"
+      },
+      "answer": "c"
+    },
+    {
+      "topic": "Thermochemistry",
+      "question": "Which of the following is an example of an endothermic process?",
+      "options": {
+        "a": "Combustion of gasoline",
+        "b": "Dissolving ammonium nitrate in water",
+        "c": "Condensation of steam",
+        "d": "Freezing of water"
+      },
+      "answer": "b"
+    },
+    {
+      "topic": "Thermochemistry",
+      "question": "What does a calorimeter measure?",
+      "options": {
+        "a": "The amount of heat absorbed or released during a chemical reaction",
+        "b": "The temperature change in a system",
+        "c": "The pressure change in a system",
+        "d": "The volume change in a system"
+      },
+      "answer": "a"
+    },
+    {
+      "topic": "Thermochemistry",
+      "question": "The enthalpy change of a reaction at constant pressure is known as:",
+      "options": {
+        "a": "ΔE",
+        "b": "ΔH",
+        "c": "ΔS",
+        "d": "ΔG"
+      },
+      "answer": "b"
+    },
+    {
+      "topic": "Thermochemistry",
+      "question": "Which of the following statements is true about exothermic reactions?",
+      "options": {
+        "a": "They absorb energy from the surroundings.",
+        "b": "They release energy to the surroundings.",
+        "c": "They have a positive ΔH.",
+        "d": "They have no energy change."
+      },
+      "answer": "b"
+    },
+    {
+      "topic": "Thermochemistry",
+      "question": "What is the first law of thermodynamics?",
+      "options": {
+        "a": "Energy cannot be created or destroyed, only transformed.",
+        "b": "The entropy of a system always increases.",
+        "c": "The total energy of a system remains constant.",
+        "d": "Heat flows spontaneously from hot to cold objects."
+      },
+      "answer": "a"
+    },
+    {
+      "topic": "Thermochemistry",
+      "question": "In an isolated system, the total energy is:",
+      "options": {
+        "a": "Constant",
+        "b": "Increasing",
+        "c": "Decreasing",
+        "d": "Variable"
+      },
+      "answer": "a"
+    },
+    {
+      "topic": "Thermochemistry",
+      "question": "What is the second law of thermodynamics?",
+      "options": {
+        "a": "Energy cannot be created or destroyed.",
+        "b": "The entropy of an isolated system always increases.",
+        "c": "The entropy of a system is zero at absolute zero.",
+        "d": "Heat flows spontaneously from cold to hot objects."
+      },
+      "answer": "b"
+    },
+    {
+      "topic": "Thermochemistry",
+      "question": "What is the standard state of a substance?",
+      "options": {
+        "a": "The state of the substance at 25°C and 1 atm pressure",
+        "b": "The state of the substance at 0°C and 1 atm pressure",
+        "c": "The state of the substance at room temperature",
+        "d": "The state of the substance at absolute zero"
+      },
+      "answer": "a"
+    },
+    {
+      "topic": "Thermochemistry",
+      "question": "Which of the following processes is exothermic?",
+      "options": {
+        "a": "Melting of ice",
+        "b": "Evaporation of water",
+        "c": "Condensation of steam",
+        "d": "Sublimation of dry ice"
+      },
+      "answer": "c"
+    },
+    {
+      "topic": "Thermochemistry",
+      "question": "The heat capacity of a substance is defined as:",
+      "options": {
+        "a": "The amount of heat required to raise the temperature of 1 gram of the substance by 1°C",
+        "b": "The amount of heat required to raise the temperature of 1 mole of the substance by 1°C",
+        "c": "The amount of heat required to raise the temperature of the substance by 1°C",
+        "d": "The amount of heat required to change the phase of the substance"
+      },
+      "answer": "c"
+    },
+    {
+      "topic": "Thermochemistry",
+      "question": "What is an adiabatic process?",
+      "options": {
+        "a": "A process that occurs at constant temperature",
+        "b": "A process that occurs at constant pressure",
+        "c": "A process that occurs without heat exchange",
+        "d": "A process that occurs with constant volume"
+      },
+      "answer": "c"
+    },
+    {
+      "topic": "Thermochemistry",
+      "question": "What is the formula for calculating the enthalpy change of a reaction?",
+      "options": {
+        "a": "ΔH = ΔG + TΔS",
+        "b": "ΔH = ΔE + PΔV",
+        "c": "ΔH = ΔE - PΔV",
+        "d": "ΔH = ΔG - TΔS"
+      },
+      "answer": "b"
+    },
+    {
+      "topic": "Thermochemistry",
+      "question": "What is the standard enthalpy of formation of an element in its standard state?",
+      "options": {
+        "a": "0",
+        "b": "1",
+        "c": "It varies",
+        "d": "It depends on the temperature"
+      },
+      "answer": "a"
     }
   ]
 }
